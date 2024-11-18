@@ -1,34 +1,34 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
     <p>Serving over 8+ million users since 2023.<p>
-    <p>Interstellar is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
+    <p>Interstellar is a web proxy with a clean and sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
 </div>
 
 ![inpreview](https://github.com/UseInterstellar/Interstellar/assets/89202835/2669efed-5186-4932-83c4-725acae60bd2)
 
 > [!IMPORTANT]
-> If you fork this project, consider giving it a star in the original repository!
+> If you fork this project, consider giving it a star in the original repository, linked [here](https://github.com/UseInterstellar/Interstellar)!
 
-**Join Our [Discord Community](https://discord.gg/interstellar) for support, more links, and an active community!**
+**Join our [Discord Community](https://discord.gg/interstellar) for support, more links, and an active community!**
 
 ## Features
 
-- About:Blank Cloaking
-- Tab Cloaking
+- About:Blank cloaking
+- Tab cloaking
 - Wide collection of apps & games
-- Clean, Easy to use UI
+- Clean, easy-to-use UI
 - Inspect Element
-- Various Themes
-- Password Protection (Optional)
-- Built-in Tab System
-- Now.gg Support
-- Fast Speeds
-- Geforce NOW Support
+- Various themes
+- Password protection (Optional)
+- Built-in tab system
+- Now.gg support
+- Fast speeds
+- Geforce NOW support
 
 ## Deployment
 
 > [!IMPORTANT]
-> You **cannot** deploy to static web hosts, including Netlify, Cloudflare Pages, and GitHub Pages.
+> You **cannot** deploy to static web hosts such as Netlify, Cloudflare Pages, or GitHub Pages.
 
 ### Password Protection
 
@@ -121,11 +121,11 @@ As of January 1st, 2024, Replit is [no longer free](https://blog.replit.com/host
 
 1. Run `pnpm i`, and before `pnpm start`, prepend `PORT=8080`, replacing 8080 with another port. For example, `PORT=6969 pnpm start`.
 2. If this does not work then you can prepend `$env:PORT=8080;`, replacing 8080 with another port. For example, `$env:PORT=6969; pnpm start`
-3. Go to the ports tab, Click Forward A Port, And type the port number.
+3. Go to the ports tab, click forward a port, And type the port number.
 4. Right-click Visibility and set Port Visibility to Public.
 
 > [!NOTE]
-> We are committed to making Interstellar easy and personalized however, as of now we need your support in making it ad-free. Consider keeping ads so Interstellar can run freely or contribute by being a supporter.
+> We are committed to making Interstellar easy and personalized. However, as of now we need your support in making it ad-free. Consider keeping ads so Interstellar can run freely or contribute by being a supporter.
 
 ## Report Issues
 
